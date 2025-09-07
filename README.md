@@ -24,21 +24,6 @@ It allows multiple users to join chat rooms, send messages, and experience a cle
 - **Real-time:** Socket.io
 - **Storage:** In-memory (can be extended to DB later)
 
----
-
-## 📂 Project Structure
-chat-app/
-│── public/
-│ ├── css/
-│ │ └── style.css
-│ ├── sounds/
-│ │ └── notify.mp3
-│── views/
-│ ├── index.ejs
-│ └── chat.ejs
-│── index.js
-│── package.json
-│── README.md
 
 
 ---
